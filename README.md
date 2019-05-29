@@ -1,7 +1,12 @@
 # Dockernet project
 MVC project with Docker and Net Core
 
-You need to have installed [Docker, Net Core]
+You need to have installed [Docker, Net Core] in your machine
+
+### Use this solution
+
+**Clone**
+Use `git clone https://github.com/vhsv90/dockernet.git` to clone this repository
 
 ### MVC Net Core useful commands
 
