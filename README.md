@@ -1,9 +1,9 @@
-#Dockernet project
+# Dockernet project
 MVC project with Docker and Net Core
 
 You need to have installed [Docker, Net Core]
 
-##MVC Net Core useful commands
+### MVC Net Core useful commands
 
 **Restore**
 Use `dotnet restore` to install project dependencies
@@ -17,7 +17,7 @@ Use `dotnet publish -o ./publish` to create publish file under ./app/publish/
 **Run published .dll**
 Go to ./publish and use `dotnet app.dll` to run the application http://localhost:5000/
 
-##Docker useful commands
+### Docker useful commands
 
 **Build Image**
 Use `docker build -t myimage .` in project root path
